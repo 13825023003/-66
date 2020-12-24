@@ -1,0 +1,8 @@
+<view class="home">
+    <view class="home-content">
+        <view class="home-bg"></view>
+        <view class="home-box"></view>
+        
+
+    </view>
+</view>

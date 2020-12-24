@@ -1,0 +1,39 @@
+{
+    "pages": [
+        "pages/home/home",
+        "pages/order/order",
+        "pages/my/my"
+    ],
+    "window": {
+        "backgroundColor": "#F5B83f",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#F5B83f",
+        "navigationBarTitleText": "大轩杰作",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json",
+    "style": "v2",
+    "tabBar":{
+      "list":[
+        {
+        "pagePath":"pages/home/home",
+        "text":"首页",
+        "iconPath":"./images/圈子.png",
+        "selectedIconPath":"./images/圈子 (1).png"
+      },{
+        "pagePath":"pages/order/order",
+        "text":"订单",
+        "iconPath":"./images/菜单.png",
+        "selectedIconPath":"./images/菜单 (1).png"
+      },
+      {
+        "pagePath":"pages/my/my",
+        "text":"我的",
+        "iconPath":"./images/我 的.png",
+        "selectedIconPath":"./images/我 的 (1).png"
+      }
+    ],
+    "color":"#bfbfbf",
+    "selectedColor":"#F5B83F"
+    }
+}
